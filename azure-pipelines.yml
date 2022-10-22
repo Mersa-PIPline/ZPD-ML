@@ -30,9 +30,4 @@ steps:
   displayName: 'ssh'
 
 
-- script: |
-    netstat
-    ls
-    uname -a
-    sw_vers
-  displayName: 'train GPT'
+
